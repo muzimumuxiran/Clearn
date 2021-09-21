@@ -1,0 +1,9 @@
+﻿D:\应用\vs\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(game.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  game.c
+C:\Users\28961\source\repos\three pieces of chess\game\game.c(40,29): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\28961\source\repos\three pieces of chess\game\game.c(40,29): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\28961\source\repos\three pieces of chess\game\game.c(44,30): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\28961\source\repos\three pieces of chess\game\game.c(44,30): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  test.c
+  正在生成代码...
+  game.vcxproj -> C:\Users\28961\source\repos\three pieces of chess\Debug\three pieces of chess.exe
